@@ -18,4 +18,4 @@
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=numanuddin1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=numanuddin1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=numanuddin1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
