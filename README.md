@@ -17,5 +17,5 @@
 ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ## 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=numanuddin1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=numanuddin1&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=numanuddin1&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)<br/>
+<a href="https://github.com/numanuddin1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numanuddin1&layout=compact&theme=dark&hide_border=true" /></a>
