@@ -1,4 +1,4 @@
-### Hi! i'm Numan 👋
+### Hi, i'm Numan 👋
 
 - 🔭 I’m currently working on Flutter.
 - 🌱 I’m currently learning more about Flutter and other mobile application development technologies...
