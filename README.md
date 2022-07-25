@@ -20,4 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=numanuddin1&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)<br/>
 <a href="https://github.com/numanuddin1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numanuddin1&layout=compact&theme=dark&hide_border=tru" /></a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=numanuddin1.numanuddin1)
+
 <!--  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=green) -->
