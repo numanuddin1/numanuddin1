@@ -1,6 +1,6 @@
 ### Hi, i'm Numan 👋
 
-- 💻 I’m currently working on Flutter Design Patter (Bloc)  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="17" height="17"/> </a> .
+- 💻 I’m currently working on Flutter Design Pattern (Bloc)  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="17" height="17"/> </a> .
 - 🙃 I’m currently learning **Flutter** <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="17" height="17"/> </a>, **Dart**<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="17" height="17"/> </a> 
 - 📱 How to reach me: [Instagram - @noman5551](https://instagram.com/noman5551) .
 - ⚡ Fun fact: ...
