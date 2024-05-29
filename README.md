@@ -15,6 +15,7 @@
 
 
 ### 💻Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-3DDC84?style=for-the-badge&logo=laravel) ![PHP](https://img.shields.io/badge/PHP-fff?style=for-the-badge&logo=php)
 ![Android Studion](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Android](https://img.shields.io/badge/android-%23EBff0.svg?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-CC342D?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%23663399.svg?style=for-the-badge&logo=kotlin&logoColor=orange)   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Xd](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
