@@ -2,7 +2,6 @@
 
 - 🙃 I’m currently working on **Flutter** <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="17" height="17"/> </a>, **Dart** <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="17" height="17"/> </a>, **Laravel** <a href="https://laravel.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="17" height="17"/> </a>, **SQL Server** <img src="https://img.shields.io/badge/-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="laravel" width="17" height="17">, **PHP** <a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="17" height="17"/> </a>, **MySQL** <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="17" height="17"/> </a>
 - 📱 How to reach me: [Instagram - @noman5551](https://instagram.com/noman5551) .
-- ⚡ Fun fact: ...
 - 💬 Ask me about anything [here](https://github.com/numanuddin1/numanuddin1/issues)
 
 Feel free to reach out for collaboration or if you have any questions about my projects!
