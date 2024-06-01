@@ -13,7 +13,7 @@ Feel free to reach out for collaboration or if you have any questions about my p
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![PlayStore](https://img.shields.io/badge/google%20play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Azure Data Studio](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-0D96F6?style=for-the-badge&logo=database&logoColor=white)
 ### 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=numanuddin1&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)<br/>
 <a href="https://github.com/numanuddin1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=numanuddin1&layout=compact&theme=dark&hide_border=true" /></a>
